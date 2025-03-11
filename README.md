@@ -1,1 +1,1 @@
-Deploy Link: https://tictactoesubir.netlify.app/
+Deploy Link: https://github.com/Subir-090/TicTacToe/releases/tag/v2.0
